@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-asdsgffghgjhkhljklghfh
-=======
-hello Git Test
->>>>>>> origin/master
+Duc kopite
